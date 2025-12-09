@@ -4,7 +4,7 @@
   </a>
 </div>
 
-I'm a software engineer passionate about exploring the intersection of technology and timeless wisdom. I believe in leveraging modern tech to make ancient knowledge more accessible and impactful for everyone.
+I’m a full-stack developer who enjoys blending modern technology with timeless wisdom.I love exploring how ancient knowledge can be made accessible, practical, and impactful through today’s digital tools.My goal is simple: build tech that feels meaningful, relatable, and genuinely useful.
 
 ---
 
@@ -48,8 +48,8 @@ I love working with a variety of technologies. My current stack is heavily focus
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eternalswamix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalswamix&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eternalswamix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalswamix&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 ---
