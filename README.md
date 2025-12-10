@@ -175,47 +175,6 @@ I love exploring how ancient knowledge can be made accessible, practical, and im
   </a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eternalswamix&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="eternalswamix" />
-  </a>
-</p>
-
-<!-- GitHub Stats Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eternalswamix&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eternalswamix&theme=radical&hide_border=true&background=0d1117&fire=7C3AED&ring=7C3AED" height="180"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalswamix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8&card_width=800" height="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eternalswamix&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=7C3AED" width="100%"/>
-</p>
-
-</div>
-
----
-
 ## 🎯 Currently
 
 <div align="center">
@@ -306,49 +265,3 @@ I love exploring how ancient knowledge can be made accessible, practical, and im
 
 </div>
 
-<!-- CSS Animations (will work in some GitHub readers) -->
-<style>
-  @keyframes float {
-    0%, 100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-  
-  @keyframes pulse {
-    0%, 100% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.05);
-    }
-  }
-  
-  @keyframes glow {
-    from {
-      box-shadow: 0 0 10px rgba(124, 58, 237, 0.5);
-    }
-    to {
-      box-shadow: 0 0 20px rgba(124, 58, 237, 0.8);
-    }
-  }
-  
-  table {
-    border-spacing: 10px;
-  }
-  
-  td {
-    transition: all 0.3s ease;
-  }
-  
-  td:hover {
-    transform: translateY(-5px);
-  }
-  
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease;
-  }
-</style>
